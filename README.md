@@ -1,6 +1,9 @@
 Spotify 2024 Wrapped 🎧
+
 Author: Swapnil Herwadkar
+
 Tools: Tableau, Power BI, SQL
+
 Topics: Data Visualization, Trend Analysis, Behavioral Insights
 
 📌 Overview
